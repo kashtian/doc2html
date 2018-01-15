@@ -14,5 +14,6 @@
   "author": "kash",
   "license": "ISC",
   "dependencies": {
+    "mammoth": "^1.4.3"
   }
 }
